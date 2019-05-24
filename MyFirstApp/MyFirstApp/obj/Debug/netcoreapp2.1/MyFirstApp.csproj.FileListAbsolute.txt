@@ -1,0 +1,11 @@
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp2.1\MyFirstApp.deps.json
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp2.1\MyFirstApp.runtimeconfig.json
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp2.1\MyFirstApp.runtimeconfig.dev.json
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp2.1\MyFirstApp.dll
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\bin\Debug\netcoreapp2.1\MyFirstApp.pdb
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp2.1\MyFirstApp.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp2.1\MyFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp2.1\MyFirstApp.AssemblyInfoInputs.cache
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp2.1\MyFirstApp.AssemblyInfo.cs
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp2.1\MyFirstApp.dll
+C:\Users\chris\source\repos\MyFirstApp\MyFirstApp\MyFirstApp\obj\Debug\netcoreapp2.1\MyFirstApp.pdb
